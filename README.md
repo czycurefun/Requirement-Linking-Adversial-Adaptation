@@ -9,7 +9,7 @@ RADIATION is used to train the requirements linking model from the source domain
 - data/processed folder contains the dataset mentioned in our paper, and we provide the processed version of the original dataset
 
 RADIATION Architecture:  
-![Image text](https://github.com/lsplx/Requirement-Linking-Adversial-Adaptation/blob/main/pic/%E6%9E%B6%E6%9E%84%E5%9B%BE%E7%BB%88.png)
+![Image text](https://github.com/czycurefun/Requirement-Linking-Adversial-Adaptation/blob/master/pic/%E6%9E%B6%E6%9E%84%E5%9B%BE%E7%BB%88.png)
 
 # Packages
 - torch
